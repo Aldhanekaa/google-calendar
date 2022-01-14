@@ -1,7 +1,7 @@
-# Khan Academy Desktop App !
+# Google Calendar Desktop App !
 
-Fast and easy access to Khan Academy
+Fast and easy access to Google Calendar
 
 ---
 
-Khan Academy desktop app built with Electron
+Google Calendar desktop app built with Electron
